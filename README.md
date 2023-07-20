@@ -1,5 +1,6 @@
 # SILVER-Tools
-A small QoL MaxScript. 
+- A small QoL MaxScript. 
+- Tested on 3DS Max 2023.2
 
 ## Functions:
 
@@ -14,5 +15,3 @@ A small QoL MaxScript.
 
 ### Set Bone Color
 - Sets the color of the selected bones.
-
-Tested on 3DS Max 2023.2
