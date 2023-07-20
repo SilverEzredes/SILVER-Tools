@@ -14,3 +14,5 @@ A small QoL MaxScript.
 
 ### Set Bone Color
 - Sets the color of the selected bones.
+
+Tested on 3DS Max 2023.2
