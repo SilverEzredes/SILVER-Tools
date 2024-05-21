@@ -1,6 +1,6 @@
 # SILVER-Tools
 - A small QoL MaxScript. 
-- Tested on 3DS Max 2023.2
+- Tested on 3DS Max 2023.2 | 2024.2 | 2025
 
 ## Functions:
 
